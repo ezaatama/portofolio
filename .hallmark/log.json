@@ -1,0 +1,54 @@
+[
+ {
+  "shape": "Split Studio",
+  "theme": "hum",
+  "axes": "light/rounded-sans/chromatic-yellow",
+  "hero": "Settled",
+  "nav": "edge-aligned",
+  "footer": "statement",
+  "imagery": "product screenshots (user)",
+  "photos": [],
+  "entry": "index",
+  "fingerprint": "e51d7e-hum",
+  "sections": [
+   "hero",
+   "index",
+   "statement",
+   "case",
+   "bento",
+   "sheet-rows",
+   "contact"
+  ],
+  "signature": "three app screens fanned on a sugar-paper mat beside a hello",
+  "waived": [],
+  "prompt": "make the portfolio friendlier",
+  "date": "2026-10-30",
+  "mode": "build"
+ },
+ {
+  "shape": "Marquee Hero",
+  "theme": "brutal",
+  "axes": "light/grotesk-heavy/chromatic-yellow",
+  "hero": "Corridor",
+  "nav": "slab",
+  "footer": "mast",
+  "imagery": "product screenshots (user)",
+  "photos": [],
+  "entry": "index",
+  "fingerprint": "e51d7e",
+  "sections": [
+   "hero",
+   "index",
+   "statement",
+   "case",
+   "bento",
+   "band-rows",
+   "contact"
+  ],
+  "signature": "boxed work index with yellow row and flipping app screen",
+  "waived": [],
+  "prompt": "portfolio to sell Flutter developer to companies",
+  "date": "2026-10-30",
+  "mode": "build"
+ }
+]
